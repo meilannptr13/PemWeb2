@@ -6,7 +6,7 @@
    $rs = $dbh->query($sql);
 ?>
 
-      <a class="btn btn-success" href="proses_pelanggan.php" role="button">Create Pelanggan</a>
+      <a class="btn btn-success" href="form_pelanggan.php" role="button">Create Pelanggan</a>
         <table class="table" width="100%" border="1" cellspacing="2" cellpadding="2">
             <thead>
                 <tr>
